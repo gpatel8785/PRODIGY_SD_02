@@ -1,7 +1,7 @@
 ﻿// FILE          : Game.aspx.cs
 // PROJECT       : HiLoGameASP4
-// PROGRAMMER    : Gaurav Patel & Het Harani
-// FIRST VERSION : 12-11-2024
+// PROGRAMMER    : Gaurav Patel
+// FIRST VERSION : 03-08-2025
 // DESCRIPTION   :  This file comprises all the programmatic logic to the Game.aspx, which is the page in which the user guesses in the Hi-Lo game. It controls game flow, results and session for each attempt of game.
 
 using System;
