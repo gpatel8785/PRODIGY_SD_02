@@ -1,7 +1,7 @@
 ﻿// FILE          : Start.aspx.cs
 // PROJECT       : HiLoGameASP4
-// PROGRAMMER    : Gaurav Patel & Het Harani
-// FIRST VERSION : 12-11-2024
+// PROGRAMMER    : Gaurav Patel
+// FIRST VERSION : 03-08-2025
 // DESCRIPTION   : This is a file for the code-behind for the Start.aspx that is a page where the user enters his/her name to start the Hi-Lo game. The name of the user is saved in a session and then the user is transferred to the main game page.
 
 using System;
