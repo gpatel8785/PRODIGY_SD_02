@@ -1,7 +1,7 @@
 ﻿// FILE          : PlayAgain.aspx.cs
 // PROJECT       : HiLoGameASP4
-// PROGRAMMER    : Gaurav Patel & Het Harani
-// FIRST VERSION : 12-11-2024
+// PROGRAMMER    : Gaurav Patel
+// FIRST VERSION : 03-08-2025
 // DESCRIPTION   :  This is another web form file; it is the code behind PlayAgain.aspx where the user is given a message whether to play the Hi-Lo game again or not. This one manages session, clearing sessions as well as session redirection to a user preferred option.
 
 using System;
